@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+#menu1{
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+#menu1 ul li{
+    display: inline-block;
+    margin: 10px;padding: 10px;
+}
+h3{
+    text-align: center;
+}
+body{
+    background-color: aqua;
+}
